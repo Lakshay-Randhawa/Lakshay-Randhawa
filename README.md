@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **YouTube Clone**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
