@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Chat-with-me**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Open-source projects**
 
